@@ -2,7 +2,7 @@
 
 Challenge by Rocketseat.
 
-Day 1 - Repository with All Challenge Projects.
+# Day 1 - Repository with All Challenge Projects.
 Day 2 - Custom a Hello World.
 Day 3 - Animated button.
 Day 4 - Calculator.
